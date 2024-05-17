@@ -1,0 +1,1 @@
+INSERT INTO t_users (username, password) VALUES ('admin', '$2a$10$f8Quct92l/uDNB6ZgSKtluKGkQMrXah88L2PFh7jyLS/YCZs1S/Ea');
